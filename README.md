@@ -39,13 +39,13 @@ create a clean environment and install the necessary dependencies.
 conda env create -f environment.yml
 ```
 
-Then, you can activate the environment using:
+Then, for Linux and MacOS, you can activate the environment using:
 
 ```
 source activate autism
 ```
 
-for Linux and MacOS. In Windows, use the following command instead:
+In Windows, use the following command instead:
 
 ```
 activate autism
